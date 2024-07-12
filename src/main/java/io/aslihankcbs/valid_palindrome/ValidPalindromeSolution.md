@@ -5,7 +5,7 @@ We can solve this problem with different approaches. <br/> If we can use built-i
   - Two Pointers ->  Java's Character.isLetterOrDigit() method.
 
 Otherwise, we can use ASCII table or Regex. 
-- With ASCII table we can filter string. Remember these: **'A' -65 , 'a' - 97 ,'Z' - 90 , 'z' -122   48 - 57 >  '0' - '9''**. Then we can apply twi pointers.
+- With ASCII table we can filter string. Remember these: **'A' -65 , 'a' - 97 ,'Z' - 90 , 'z' -122   48 - 57 >  '0' - '9''**. Then we can apply two pointers.
 
 I will apply two pointers approaches.
 ### What is the Two Pointers Technique?
