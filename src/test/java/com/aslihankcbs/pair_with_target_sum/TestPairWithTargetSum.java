@@ -1,4 +1,4 @@
-package com.aslihankcbs;
+package com.aslihankcbs.pair_with_target_sum;
 
 import io.aslihankcbs.pair_with_target_sum.PairWithTargetSum;
 import org.junit.jupiter.api.DisplayName;
